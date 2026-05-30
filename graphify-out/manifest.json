@@ -1,0 +1,877 @@
+{
+  "C:\\Users\\Pessoal\\graphify\\graphify\\affected.py": {
+    "mtime": 1780175313.1289446,
+    "ast_hash": "83d6b5888e511d289183df7bddf898c4",
+    "semantic_hash": "83d6b5888e511d289183df7bddf898c4"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\analyze.py": {
+    "mtime": 1780175313.1299293,
+    "ast_hash": "1b679ad9fc0ce1ae884a6021d95497c8",
+    "semantic_hash": "1b679ad9fc0ce1ae884a6021d95497c8"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\benchmark.py": {
+    "mtime": 1780175313.130949,
+    "ast_hash": "6e23a81b8349048191a8a54399988bb6",
+    "semantic_hash": "6e23a81b8349048191a8a54399988bb6"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\build.py": {
+    "mtime": 1780175313.1319292,
+    "ast_hash": "0f6b0cc4bafaef637f19195ed3627060",
+    "semantic_hash": "0f6b0cc4bafaef637f19195ed3627060"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\cache.py": {
+    "mtime": 1780175313.1319292,
+    "ast_hash": "ce8bba92f516e4f91f806f274420a77f",
+    "semantic_hash": "ce8bba92f516e4f91f806f274420a77f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\callflow_html.py": {
+    "mtime": 1780175313.133928,
+    "ast_hash": "6e14cbcbb7977c038007544b3f657f1c",
+    "semantic_hash": "6e14cbcbb7977c038007544b3f657f1c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\cluster.py": {
+    "mtime": 1780175313.133928,
+    "ast_hash": "97d37bdeb968ab5b21e94c00b0283de5",
+    "semantic_hash": "97d37bdeb968ab5b21e94c00b0283de5"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\dedup.py": {
+    "mtime": 1780175313.1349287,
+    "ast_hash": "7df8aa7d642063dc082ecb3a0db32d63",
+    "semantic_hash": "7df8aa7d642063dc082ecb3a0db32d63"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\detect.py": {
+    "mtime": 1780175313.1359303,
+    "ast_hash": "98823dbfd4bdb5c3f83155c01fe7374d",
+    "semantic_hash": "98823dbfd4bdb5c3f83155c01fe7374d"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\diagnostics.py": {
+    "mtime": 1780175313.1359303,
+    "ast_hash": "e74233723bc5dba9cd8aeb20147fdefa",
+    "semantic_hash": "e74233723bc5dba9cd8aeb20147fdefa"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\export.py": {
+    "mtime": 1780175313.1369295,
+    "ast_hash": "e565010d21b003a6efac419c55001fe1",
+    "semantic_hash": "e565010d21b003a6efac419c55001fe1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\extract.py": {
+    "mtime": 1780175313.1409278,
+    "ast_hash": "9e1af4de388372d427d96643239ec5dd",
+    "semantic_hash": "9e1af4de388372d427d96643239ec5dd"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\global_graph.py": {
+    "mtime": 1780175313.1409278,
+    "ast_hash": "af92c71ff25b53a207c34281e77e2cb9",
+    "semantic_hash": "af92c71ff25b53a207c34281e77e2cb9"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\google_workspace.py": {
+    "mtime": 1780175313.141929,
+    "ast_hash": "65f351d6eb1778feacaff4ea6fd2b2a1",
+    "semantic_hash": "65f351d6eb1778feacaff4ea6fd2b2a1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\hooks.py": {
+    "mtime": 1780175313.1429307,
+    "ast_hash": "3ac8272e86a36a0d7aef8e30e72f80c3",
+    "semantic_hash": "3ac8272e86a36a0d7aef8e30e72f80c3"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\ingest.py": {
+    "mtime": 1780175313.1429307,
+    "ast_hash": "c9688ebc354ea9a8b6b69448b8d67956",
+    "semantic_hash": "c9688ebc354ea9a8b6b69448b8d67956"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\llm.py": {
+    "mtime": 1780175313.1439285,
+    "ast_hash": "2298bdeb3cb822e1f1f7b28e72fab664",
+    "semantic_hash": "2298bdeb3cb822e1f1f7b28e72fab664"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\manifest.py": {
+    "mtime": 1780175313.1449437,
+    "ast_hash": "b6fb195b7900f4ed7bec86a8b0d43a18",
+    "semantic_hash": "b6fb195b7900f4ed7bec86a8b0d43a18"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\mcp_ingest.py": {
+    "mtime": 1780175313.1459289,
+    "ast_hash": "82b0d6d2210fa12c3e627e231a36649b",
+    "semantic_hash": "82b0d6d2210fa12c3e627e231a36649b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\multigraph_compat.py": {
+    "mtime": 1780175313.1469297,
+    "ast_hash": "8cdcc4c145479df5b9108d8adeac986e",
+    "semantic_hash": "8cdcc4c145479df5b9108d8adeac986e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\prs.py": {
+    "mtime": 1780175313.1479292,
+    "ast_hash": "8df3be1f457b0326012d105a124e87bf",
+    "semantic_hash": "8df3be1f457b0326012d105a124e87bf"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\report.py": {
+    "mtime": 1780175313.1489289,
+    "ast_hash": "a329e6607fe9c9d2e3b9ee05361f9183",
+    "semantic_hash": "a329e6607fe9c9d2e3b9ee05361f9183"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\scip_ingest.py": {
+    "mtime": 1780175313.1499326,
+    "ast_hash": "ce2c29d40d8e5e0af42401e6afe6487d",
+    "semantic_hash": "ce2c29d40d8e5e0af42401e6afe6487d"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\security.py": {
+    "mtime": 1780175313.1509535,
+    "ast_hash": "f880bd7bdefda97fa8ca35d12d59c715",
+    "semantic_hash": "f880bd7bdefda97fa8ca35d12d59c715"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\semantic_cleanup.py": {
+    "mtime": 1780175313.1519294,
+    "ast_hash": "d73f5ac9e9fea91a114c2e17692d5f55",
+    "semantic_hash": "d73f5ac9e9fea91a114c2e17692d5f55"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\serve.py": {
+    "mtime": 1780175313.1529288,
+    "ast_hash": "9fce3f79f39694f02d58563cb1e4e22e",
+    "semantic_hash": "9fce3f79f39694f02d58563cb1e4e22e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\symbol_resolution.py": {
+    "mtime": 1780175313.167929,
+    "ast_hash": "8fb2a69f199a89975249e0ca1ec3f3d5",
+    "semantic_hash": "8fb2a69f199a89975249e0ca1ec3f3d5"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\transcribe.py": {
+    "mtime": 1780175313.167929,
+    "ast_hash": "806ed4df8ffa36a40cc887a8b07e0c36",
+    "semantic_hash": "806ed4df8ffa36a40cc887a8b07e0c36"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\tree_html.py": {
+    "mtime": 1780175313.168928,
+    "ast_hash": "559ba02449467f377466e76cabecb614",
+    "semantic_hash": "559ba02449467f377466e76cabecb614"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\validate.py": {
+    "mtime": 1780175313.1699295,
+    "ast_hash": "58b66d31350c480f602c1cb09648245d",
+    "semantic_hash": "58b66d31350c480f602c1cb09648245d"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\watch.py": {
+    "mtime": 1780175313.1709616,
+    "ast_hash": "b1df7fb415fa3683020455c6b1121656",
+    "semantic_hash": "b1df7fb415fa3683020455c6b1121656"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\wiki.py": {
+    "mtime": 1780175313.1719427,
+    "ast_hash": "9abc54acb305b2c559c8ae2a9e61c353",
+    "semantic_hash": "9abc54acb305b2c559c8ae2a9e61c353"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\__init__.py": {
+    "mtime": 1780175313.1269298,
+    "ast_hash": "7d6b16eb66fd4852a50d7474a1815579",
+    "semantic_hash": "7d6b16eb66fd4852a50d7474a1815579"
+  },
+  "C:\\Users\\Pessoal\\graphify\\graphify\\__main__.py": {
+    "mtime": 1780175313.1289446,
+    "ast_hash": "fbf7fb2f54c2a49847874432e26a5a87",
+    "semantic_hash": "fbf7fb2f54c2a49847874432e26a5a87"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\bench_extract.py": {
+    "mtime": 1780175313.173929,
+    "ast_hash": "1a7d90e1abc6d7a780849ca3d5b3223e",
+    "semantic_hash": "1a7d90e1abc6d7a780849ca3d5b3223e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\conftest.py": {
+    "mtime": 1780175313.173929,
+    "ast_hash": "802d3bdf0c5f54b3765bb9384c03f10e",
+    "semantic_hash": "802d3bdf0c5f54b3765bb9384c03f10e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_affected_cli.py": {
+    "mtime": 1780175313.2349317,
+    "ast_hash": "05eb4e515afce74c6a330aab29549905",
+    "semantic_hash": "05eb4e515afce74c6a330aab29549905"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_analyze.py": {
+    "mtime": 1780175313.2359307,
+    "ast_hash": "2acf5dd7ede4c7348129360e597897ae",
+    "semantic_hash": "2acf5dd7ede4c7348129360e597897ae"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_astro_extraction.py": {
+    "mtime": 1780175313.2371988,
+    "ast_hash": "d02c22e47b8032d135860c1da4bc97a5",
+    "semantic_hash": "d02c22e47b8032d135860c1da4bc97a5"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_benchmark.py": {
+    "mtime": 1780175313.2379308,
+    "ast_hash": "ba858da65c6f5166eeb6b469a9693fb3",
+    "semantic_hash": "ba858da65c6f5166eeb6b469a9693fb3"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_build.py": {
+    "mtime": 1780175313.2391875,
+    "ast_hash": "f64ad476b5b0489d09f080cbdd3d887c",
+    "semantic_hash": "f64ad476b5b0489d09f080cbdd3d887c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_cache.py": {
+    "mtime": 1780175313.2399297,
+    "ast_hash": "2233754d22d5470b8a4b9dd0438b9e5a",
+    "semantic_hash": "2233754d22d5470b8a4b9dd0438b9e5a"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_callflow_html.py": {
+    "mtime": 1780175313.2399297,
+    "ast_hash": "dbc4e93925bcff9e6ede406b96bba27a",
+    "semantic_hash": "dbc4e93925bcff9e6ede406b96bba27a"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_charmap_encoding.py": {
+    "mtime": 1780175313.241963,
+    "ast_hash": "6f944ec6836e2de9540ca3beba1d79b1",
+    "semantic_hash": "6f944ec6836e2de9540ca3beba1d79b1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_chunking.py": {
+    "mtime": 1780175313.2429304,
+    "ast_hash": "29049c19d1d5fa98e8205d73481585c6",
+    "semantic_hash": "29049c19d1d5fa98e8205d73481585c6"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_claude_cli_backend.py": {
+    "mtime": 1780175313.2429304,
+    "ast_hash": "2de891420987cdf06764a2aa582e8555",
+    "semantic_hash": "2de891420987cdf06764a2aa582e8555"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_claude_md.py": {
+    "mtime": 1780175313.243929,
+    "ast_hash": "b8fcdab59fac826310c473a1b2f861c1",
+    "semantic_hash": "b8fcdab59fac826310c473a1b2f861c1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_cli_export.py": {
+    "mtime": 1780175313.244928,
+    "ast_hash": "d5f12139091b3bc119ecbda5c84d12e2",
+    "semantic_hash": "d5f12139091b3bc119ecbda5c84d12e2"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_cluster.py": {
+    "mtime": 1780175313.245932,
+    "ast_hash": "d809ac0e08a1a08344d4d479714afd9e",
+    "semantic_hash": "d809ac0e08a1a08344d4d479714afd9e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_confidence.py": {
+    "mtime": 1780175313.2469301,
+    "ast_hash": "aeaab1837c65fb85507e96621d1fa9e7",
+    "semantic_hash": "aeaab1837c65fb85507e96621d1fa9e7"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_dedup.py": {
+    "mtime": 1780175313.2479339,
+    "ast_hash": "4554a8842570ce32ff65c7bb52a0cda0",
+    "semantic_hash": "4554a8842570ce32ff65c7bb52a0cda0"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_detect.py": {
+    "mtime": 1780175313.24893,
+    "ast_hash": "a197dcdbf1620b82fdb443b65464095d",
+    "semantic_hash": "a197dcdbf1620b82fdb443b65464095d"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_devin.py": {
+    "mtime": 1780175313.2509317,
+    "ast_hash": "bd4b17981405dc29c037a8478ee9f411",
+    "semantic_hash": "bd4b17981405dc29c037a8478ee9f411"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_dotnet.py": {
+    "mtime": 1780175313.2509317,
+    "ast_hash": "5690b346daa8f82f2632dcdc4967452e",
+    "semantic_hash": "5690b346daa8f82f2632dcdc4967452e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_explain_cli.py": {
+    "mtime": 1780175313.251928,
+    "ast_hash": "c2c86dec923b8fca336ced11b3a7dd11",
+    "semantic_hash": "c2c86dec923b8fca336ced11b3a7dd11"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_export.py": {
+    "mtime": 1780175313.252929,
+    "ast_hash": "d2d4f4f50e86dcf6f10aae167584dda3",
+    "semantic_hash": "d2d4f4f50e86dcf6f10aae167584dda3"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_extract.py": {
+    "mtime": 1780175313.2539628,
+    "ast_hash": "6c312d74047a61f1129ffb001c66711f",
+    "semantic_hash": "6c312d74047a61f1129ffb001c66711f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_extract_cli.py": {
+    "mtime": 1780175313.2539628,
+    "ast_hash": "f5bda884bba9db3a89234dc19c1f51a7",
+    "semantic_hash": "f5bda884bba9db3a89234dc19c1f51a7"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_global_graph.py": {
+    "mtime": 1780175313.2549348,
+    "ast_hash": "ab30b4eaabc3bd9e027bbf24f02f301d",
+    "semantic_hash": "ab30b4eaabc3bd9e027bbf24f02f301d"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_google_workspace.py": {
+    "mtime": 1780175313.25595,
+    "ast_hash": "af8a234affff192d1d3f7af2c6bc4245",
+    "semantic_hash": "af8a234affff192d1d3f7af2c6bc4245"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_hooks.py": {
+    "mtime": 1780175313.2569304,
+    "ast_hash": "c354141af669643d58a6d16eee5bd774",
+    "semantic_hash": "c354141af669643d58a6d16eee5bd774"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_hypergraph.py": {
+    "mtime": 1780175313.2569304,
+    "ast_hash": "1256cad0b03866e952d14314edd08116",
+    "semantic_hash": "1256cad0b03866e952d14314edd08116"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_import_extension_resolution.py": {
+    "mtime": 1780175313.2579288,
+    "ast_hash": "d37c11d3cdfc282dcd96546cf6706f39",
+    "semantic_hash": "d37c11d3cdfc282dcd96546cf6706f39"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_incremental.py": {
+    "mtime": 1780175313.258979,
+    "ast_hash": "1d4989a9713b39532efe44a0111e7c96",
+    "semantic_hash": "1d4989a9713b39532efe44a0111e7c96"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_ingest.py": {
+    "mtime": 1780175313.2599292,
+    "ast_hash": "887c3a601773a11f6a3a119c2aa94067",
+    "semantic_hash": "887c3a601773a11f6a3a119c2aa94067"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_install.py": {
+    "mtime": 1780175313.2609308,
+    "ast_hash": "dd92e6864734b8770285d6eab5e067df",
+    "semantic_hash": "dd92e6864734b8770285d6eab5e067df"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_install_strings.py": {
+    "mtime": 1780175313.261942,
+    "ast_hash": "09819761a8f9b9dc9cc55f4533feea1f",
+    "semantic_hash": "09819761a8f9b9dc9cc55f4533feea1f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_install_upgrade.py": {
+    "mtime": 1780175313.261942,
+    "ast_hash": "c5fcb2a61d395cb6246d05c4efdd0f23",
+    "semantic_hash": "c5fcb2a61d395cb6246d05c4efdd0f23"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_js_import_resolution.py": {
+    "mtime": 1780175313.2629287,
+    "ast_hash": "691b2e1396675ef7930232915f461a09",
+    "semantic_hash": "691b2e1396675ef7930232915f461a09"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_languages.py": {
+    "mtime": 1780175313.263931,
+    "ast_hash": "a6f116ca7c8137192596df349721e72b",
+    "semantic_hash": "a6f116ca7c8137192596df349721e72b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_llm_backends.py": {
+    "mtime": 1780175313.2649288,
+    "ast_hash": "3c9101b2a9f19e78adf37aff8c935049",
+    "semantic_hash": "3c9101b2a9f19e78adf37aff8c935049"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_llm_parser.py": {
+    "mtime": 1780175313.2659311,
+    "ast_hash": "754ee6540a5752df8fa4488029a009cb",
+    "semantic_hash": "754ee6540a5752df8fa4488029a009cb"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_mcp_ingest.py": {
+    "mtime": 1780175313.2669303,
+    "ast_hash": "063db4e850d3b7f8de00ccc8ac9c305f",
+    "semantic_hash": "063db4e850d3b7f8de00ccc8ac9c305f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_multigraph_compat.py": {
+    "mtime": 1780175313.2669303,
+    "ast_hash": "9523dddf51d3a02cac21ababb51674f5",
+    "semantic_hash": "9523dddf51d3a02cac21ababb51674f5"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_multigraph_diagnostics.py": {
+    "mtime": 1780175313.2679284,
+    "ast_hash": "3f723e26b00a046d0282c69431115fea",
+    "semantic_hash": "3f723e26b00a046d0282c69431115fea"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_multilang.py": {
+    "mtime": 1780175313.2689285,
+    "ast_hash": "8f02328c90a55e1e5edfeb903cb7ff70",
+    "semantic_hash": "8f02328c90a55e1e5edfeb903cb7ff70"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_ollama.py": {
+    "mtime": 1780175313.2699287,
+    "ast_hash": "e656280553f32f61207d8babbe28b31a",
+    "semantic_hash": "e656280553f32f61207d8babbe28b31a"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_pascal.py": {
+    "mtime": 1780175313.2699287,
+    "ast_hash": "10386495508870fd8705f9d7c502dd79",
+    "semantic_hash": "10386495508870fd8705f9d7c502dd79"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_path_cli.py": {
+    "mtime": 1780175313.2709286,
+    "ast_hash": "8de169afa6645a8afeb647764e663b07",
+    "semantic_hash": "8de169afa6645a8afeb647764e663b07"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_pipeline.py": {
+    "mtime": 1780175313.2719288,
+    "ast_hash": "7fd37b8566d77fd4127081245f605e7d",
+    "semantic_hash": "7fd37b8566d77fd4127081245f605e7d"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_provider_registry.py": {
+    "mtime": 1780175313.27293,
+    "ast_hash": "286322c75cde313efdee1e10f8354014",
+    "semantic_hash": "286322c75cde313efdee1e10f8354014"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_prs.py": {
+    "mtime": 1780175313.27393,
+    "ast_hash": "38e16aa0e8ca28267daecda50259ed7e",
+    "semantic_hash": "38e16aa0e8ca28267daecda50259ed7e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_python_import_resolution.py": {
+    "mtime": 1780175313.2749286,
+    "ast_hash": "c6edac6cd94226554809b7355eda707b",
+    "semantic_hash": "c6edac6cd94226554809b7355eda707b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_query_cli.py": {
+    "mtime": 1780175313.2759287,
+    "ast_hash": "3d8713ee35b363b5ffaf7eb996146fb6",
+    "semantic_hash": "3d8713ee35b363b5ffaf7eb996146fb6"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_rationale.py": {
+    "mtime": 1780175313.276928,
+    "ast_hash": "345c9427bbd3cba54953b597aac2313b",
+    "semantic_hash": "345c9427bbd3cba54953b597aac2313b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_report.py": {
+    "mtime": 1780175313.276928,
+    "ast_hash": "c30892057a259583592cb99291c7e424",
+    "semantic_hash": "c30892057a259583592cb99291c7e424"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_scip_ingest.py": {
+    "mtime": 1780175313.2779288,
+    "ast_hash": "aecd586518fc9cf3b8ec33fb0274bf8f",
+    "semantic_hash": "aecd586518fc9cf3b8ec33fb0274bf8f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_security.py": {
+    "mtime": 1780175313.2789285,
+    "ast_hash": "afcd39d24fcab3502608d4c199990c14",
+    "semantic_hash": "afcd39d24fcab3502608d4c199990c14"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_semantic_cleanup.py": {
+    "mtime": 1780175313.279929,
+    "ast_hash": "189731b8fc7671ea4a23f5d9c4869312",
+    "semantic_hash": "189731b8fc7671ea4a23f5d9c4869312"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_semantic_similarity.py": {
+    "mtime": 1780175313.2809305,
+    "ast_hash": "8b6da033b8d5c2e759b10162e507acd3",
+    "semantic_hash": "8b6da033b8d5c2e759b10162e507acd3"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_serve.py": {
+    "mtime": 1780175313.2819302,
+    "ast_hash": "68a5e0a57fa8f34843c9db0d8319aa78",
+    "semantic_hash": "68a5e0a57fa8f34843c9db0d8319aa78"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_symbol_resolution.py": {
+    "mtime": 1780175313.282929,
+    "ast_hash": "eee6a81ac679b2329205d3450a56c73f",
+    "semantic_hash": "eee6a81ac679b2329205d3450a56c73f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_transcribe.py": {
+    "mtime": 1780175313.283929,
+    "ast_hash": "4f93c061f990991830203ce129291dd0",
+    "semantic_hash": "4f93c061f990991830203ce129291dd0"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_validate.py": {
+    "mtime": 1780175313.283929,
+    "ast_hash": "40f7c94d777ba791d6711ca7ad6444b1",
+    "semantic_hash": "40f7c94d777ba791d6711ca7ad6444b1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_watch.py": {
+    "mtime": 1780175313.2849298,
+    "ast_hash": "57fdfba9d16943a0f208d36b3fad552c",
+    "semantic_hash": "57fdfba9d16943a0f208d36b3fad552c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\test_wiki.py": {
+    "mtime": 1780175313.2859282,
+    "ast_hash": "01504c2c2a8ecbd85e4719bb4a122c7b",
+    "semantic_hash": "01504c2c2a8ecbd85e4719bb4a122c7b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\__init__.py": {
+    "mtime": 1780175313.1729324,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\barrel_reexport.ts": {
+    "mtime": 1780175313.1749287,
+    "ast_hash": "af11bd42788c3e2445b68e752fda283f",
+    "semantic_hash": "af11bd42788c3e2445b68e752fda283f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\cjs_require.js": {
+    "mtime": 1780175313.1759276,
+    "ast_hash": "7e96267e28c319393a69533179675d75",
+    "semantic_hash": "7e96267e28c319393a69533179675d75"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\cookieHelpers.ts": {
+    "mtime": 1780175313.1759276,
+    "ast_hash": "b1c621bae8994f2bdd2556e3a6f4638f",
+    "semantic_hash": "b1c621bae8994f2bdd2556e3a6f4638f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\dynamic_import.ts": {
+    "mtime": 1780175313.1829302,
+    "ast_hash": "3c8854b41bfd47798987f3a982fdb73e",
+    "semantic_hash": "3c8854b41bfd47798987f3a982fdb73e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\extraction.json": {
+    "mtime": 1780175313.1829302,
+    "ast_hash": "8c7e53bb3a5d646b25bc1c3d0a39aa36",
+    "semantic_hash": "8c7e53bb3a5d646b25bc1c3d0a39aa36"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.c": {
+    "mtime": 1780175313.1889286,
+    "ast_hash": "d3250485b2b859b49aa5076a0d80b4ad",
+    "semantic_hash": "d3250485b2b859b49aa5076a0d80b4ad"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.cpp": {
+    "mtime": 1780175313.189931,
+    "ast_hash": "dd6f0ad3768e96a616c567b1bb9b4040",
+    "semantic_hash": "dd6f0ad3768e96a616c567b1bb9b4040"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.cs": {
+    "mtime": 1780175313.1909294,
+    "ast_hash": "7962c3f5867f1a15f10b10393a310888",
+    "semantic_hash": "7962c3f5867f1a15f10b10393a310888"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.csproj": {
+    "mtime": 1780175313.1919408,
+    "ast_hash": "0c326f1066858a87410aaede6d9d3a79",
+    "semantic_hash": "0c326f1066858a87410aaede6d9d3a79"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.dfm": {
+    "mtime": 1780175313.1919408,
+    "ast_hash": "43678d74d251a625bdaf3adb71572a9b",
+    "semantic_hash": "43678d74d251a625bdaf3adb71572a9b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.dm": {
+    "mtime": 1780175313.194024,
+    "ast_hash": "ddcfbe9a1f72bde70a9359ed5ac63b43",
+    "semantic_hash": "ddcfbe9a1f72bde70a9359ed5ac63b43"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.dmf": {
+    "mtime": 1780175313.1949308,
+    "ast_hash": "f615920a477e590518a45d83898f8a19",
+    "semantic_hash": "f615920a477e590518a45d83898f8a19"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.dmi": {
+    "mtime": 1780175313.1949308,
+    "ast_hash": "6219fabd2ff0339d30f71641648e1de9",
+    "semantic_hash": "6219fabd2ff0339d30f71641648e1de9"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.dmm": {
+    "mtime": 1780175313.1969328,
+    "ast_hash": "f58dbf43ae4c57f2fd00f6d18ddba51e",
+    "semantic_hash": "f58dbf43ae4c57f2fd00f6d18ddba51e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.ex": {
+    "mtime": 1780175313.198011,
+    "ast_hash": "d5edac0c474cea2d4ea70646f010e6f8",
+    "semantic_hash": "d5edac0c474cea2d4ea70646f010e6f8"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.f90": {
+    "mtime": 1780175313.1989305,
+    "ast_hash": "9d9538f1fb0f78875a0a2dcbd8045e21",
+    "semantic_hash": "9d9538f1fb0f78875a0a2dcbd8045e21"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.go": {
+    "mtime": 1780175313.1989305,
+    "ast_hash": "b89aceb2ba2a70350d2b95f27c2ffd3f",
+    "semantic_hash": "b89aceb2ba2a70350d2b95f27c2ffd3f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.groovy": {
+    "mtime": 1780175313.1999478,
+    "ast_hash": "930d531632bec334756dbc1ecffd5607",
+    "semantic_hash": "930d531632bec334756dbc1ecffd5607"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.java": {
+    "mtime": 1780175313.2009318,
+    "ast_hash": "a656851a85c317a33704f35d42b0620c",
+    "semantic_hash": "a656851a85c317a33704f35d42b0620c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.jl": {
+    "mtime": 1780175313.2019305,
+    "ast_hash": "05bf69b153b47ea73964930b374d12ae",
+    "semantic_hash": "05bf69b153b47ea73964930b374d12ae"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.json": {
+    "mtime": 1780175313.2019305,
+    "ast_hash": "2f1e923bc3ed58c55233e963dc6045b4",
+    "semantic_hash": "2f1e923bc3ed58c55233e963dc6045b4"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.kt": {
+    "mtime": 1780175313.2029285,
+    "ast_hash": "50555629a5ce0e0b148c162b112cf830",
+    "semantic_hash": "50555629a5ce0e0b148c162b112cf830"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.lfm": {
+    "mtime": 1780175313.2039287,
+    "ast_hash": "1ec315f44a5ab09c06df3a8e97333ec3",
+    "semantic_hash": "1ec315f44a5ab09c06df3a8e97333ec3"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.lpk": {
+    "mtime": 1780175313.2049303,
+    "ast_hash": "bd451cd8938c8149ac85ca96df47a649",
+    "semantic_hash": "bd451cd8938c8149ac85ca96df47a649"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.luau": {
+    "mtime": 1780175313.205928,
+    "ast_hash": "0371e4839c69f9e6e4bd6648c4658c30",
+    "semantic_hash": "0371e4839c69f9e6e4bd6648c4658c30"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.m": {
+    "mtime": 1780175313.205928,
+    "ast_hash": "c5f2fc141ac551aa2b005874ef90fadb",
+    "semantic_hash": "c5f2fc141ac551aa2b005874ef90fadb"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.mcp.json": {
+    "mtime": 1780175313.2069283,
+    "ast_hash": "711a748b75ac88f902d20206f62f456b",
+    "semantic_hash": "711a748b75ac88f902d20206f62f456b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.pas": {
+    "mtime": 1780175313.207929,
+    "ast_hash": "d4192e62625d914c2fcddbdf47c0b720",
+    "semantic_hash": "d4192e62625d914c2fcddbdf47c0b720"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.php": {
+    "mtime": 1780175313.2089305,
+    "ast_hash": "ade86571caa96861ffda7621e089f3d8",
+    "semantic_hash": "ade86571caa96861ffda7621e089f3d8"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.ps1": {
+    "mtime": 1780175313.2099285,
+    "ast_hash": "f490c05808fe7a2405d59746deff79a8",
+    "semantic_hash": "f490c05808fe7a2405d59746deff79a8"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.py": {
+    "mtime": 1780175313.210929,
+    "ast_hash": "40d26857f9db668c666b9fd6e89cae0f",
+    "semantic_hash": "40d26857f9db668c666b9fd6e89cae0f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.razor": {
+    "mtime": 1780175313.2119308,
+    "ast_hash": "3615fcfb4146b40f45e143299c775aeb",
+    "semantic_hash": "3615fcfb4146b40f45e143299c775aeb"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.rb": {
+    "mtime": 1780175313.2129292,
+    "ast_hash": "bc67e4db7dcea4169441db46e4c0d1b2",
+    "semantic_hash": "bc67e4db7dcea4169441db46e4c0d1b2"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.rs": {
+    "mtime": 1780175313.213937,
+    "ast_hash": "6ae255d57f9d6ffc4887b1c3d24f8e50",
+    "semantic_hash": "6ae255d57f9d6ffc4887b1c3d24f8e50"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.scala": {
+    "mtime": 1780175313.2149422,
+    "ast_hash": "c4b036ab5f90c9b6d1d0e01c699673c7",
+    "semantic_hash": "c4b036ab5f90c9b6d1d0e01c699673c7"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.sh": {
+    "mtime": 1780175313.2149422,
+    "ast_hash": "70f9f27e90d6329a180bb154808e64c5",
+    "semantic_hash": "70f9f27e90d6329a180bb154808e64c5"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.sln": {
+    "mtime": 1780175313.215934,
+    "ast_hash": "04e08f3a88d26b5ef04d4b9dd4614c0f",
+    "semantic_hash": "04e08f3a88d26b5ef04d4b9dd4614c0f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.sql": {
+    "mtime": 1780175313.2169285,
+    "ast_hash": "edcd04dd6a02eb350ac8f8c2bc42c3b1",
+    "semantic_hash": "edcd04dd6a02eb350ac8f8c2bc42c3b1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.swift": {
+    "mtime": 1780175313.2179286,
+    "ast_hash": "37daf4555ba4cb4a13c336ce7884ea4c",
+    "semantic_hash": "37daf4555ba4cb4a13c336ce7884ea4c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.ts": {
+    "mtime": 1780175313.2189307,
+    "ast_hash": "eca8672c41e03530fc355526545c425e",
+    "semantic_hash": "eca8672c41e03530fc355526545c425e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.tsx": {
+    "mtime": 1780175313.2199304,
+    "ast_hash": "cc4c55319bb09b4bcb9137d52ad8d16c",
+    "semantic_hash": "cc4c55319bb09b4bcb9137d52ad8d16c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample.zig": {
+    "mtime": 1780175313.2199304,
+    "ast_hash": "2b70ac0b9a1698a539c3a0413369a7ba",
+    "semantic_hash": "2b70ac0b9a1698a539c3a0413369a7ba"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_alter_fk.sql": {
+    "mtime": 1780175313.2209284,
+    "ast_hash": "3ef2846871ce9629d644790cfce469fa",
+    "semantic_hash": "3ef2846871ce9629d644790cfce469fa"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_calls.py": {
+    "mtime": 1780175313.2219286,
+    "ast_hash": "5d61d0c3268393efdff61e775d0299dc",
+    "semantic_hash": "5d61d0c3268393efdff61e775d0299dc"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_php_config.php": {
+    "mtime": 1780175313.2229314,
+    "ast_hash": "ec8acdd57e6c48be2208c8adb68ec9fb",
+    "semantic_hash": "ec8acdd57e6c48be2208c8adb68ec9fb"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_php_container.php": {
+    "mtime": 1780175313.2229314,
+    "ast_hash": "53f59426adc01aad42273a91b9c5d682",
+    "semantic_hash": "53f59426adc01aad42273a91b9c5d682"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_php_listen.php": {
+    "mtime": 1780175313.2239282,
+    "ast_hash": "ee3ff06e804e168123f8426894527195",
+    "semantic_hash": "ee3ff06e804e168123f8426894527195"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_php_static_prop.php": {
+    "mtime": 1780175313.2249286,
+    "ast_hash": "73b53ddaa4e0b43f9868a14f57e41ff7",
+    "semantic_hash": "73b53ddaa4e0b43f9868a14f57e41ff7"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_preprocessed.F90": {
+    "mtime": 1780175313.2259307,
+    "ast_hash": "119a61bd69d8c4162b8f92634f78e3f1",
+    "semantic_hash": "119a61bd69d8c4162b8f92634f78e3f1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_schema_qualified.sql": {
+    "mtime": 1780175313.226932,
+    "ast_hash": "790a536e9a3979fe42fb0ced05550da4",
+    "semantic_hash": "790a536e9a3979fe42fb0ced05550da4"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_spock.groovy": {
+    "mtime": 1780175313.227947,
+    "ast_hash": "1a8cc277ce07523862b09afecdd932e1",
+    "semantic_hash": "1a8cc277ce07523862b09afecdd932e1"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\sample_tsconfig.json": {
+    "mtime": 1780175313.2289348,
+    "ast_hash": "4627aa7f3e9c66e1fccfc2d431608dca",
+    "semantic_hash": "4627aa7f3e9c66e1fccfc2d431608dca"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\storageHelpers.ts": {
+    "mtime": 1780175313.2299354,
+    "ast_hash": "ed55602bc3d6911e4b38461e08c05753",
+    "semantic_hash": "ed55602bc3d6911e4b38461e08c05753"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\typescript_advanced.ts": {
+    "mtime": 1780175313.2329328,
+    "ast_hash": "1c8c7caaa22b89dc2ae46a98bf1ec2c4",
+    "semantic_hash": "1c8c7caaa22b89dc2ae46a98bf1ec2c4"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\urlHelpers.ts": {
+    "mtime": 1780175313.2339296,
+    "ast_hash": "479220da56fc6a649aee1342446dcf79",
+    "semantic_hash": "479220da56fc6a649aee1342446dcf79"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\crate_a\\src\\lib.rs": {
+    "mtime": 1780175313.1779306,
+    "ast_hash": "71e83aadad3ab78b3aa3d0258dce72cd",
+    "semantic_hash": "71e83aadad3ab78b3aa3d0258dce72cd"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\crate_b\\src\\lib.rs": {
+    "mtime": 1780175313.180932,
+    "ast_hash": "3fb1a6373bffeec6b3f46e1c5a3e8254",
+    "semantic_hash": "3fb1a6373bffeec6b3f46e1c5a3e8254"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\swift_cross_file\\Foo+Ext.swift": {
+    "mtime": 1780175313.2319527,
+    "ast_hash": "63951fcec2a174509859e3cb4306115f",
+    "semantic_hash": "63951fcec2a174509859e3cb4306115f"
+  },
+  "C:\\Users\\Pessoal\\graphify\\tests\\fixtures\\swift_cross_file\\Foo.swift": {
+    "mtime": 1780175313.2329328,
+    "ast_hash": "ccfe251a8a6099ebeda9c67a098991a6",
+    "semantic_hash": "ccfe251a8a6099ebeda9c67a098991a6"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\example\\raw\\api.py": {
+    "mtime": 1780175313.2979486,
+    "ast_hash": "94803866dac5d43ca93424600f92d087",
+    "semantic_hash": "94803866dac5d43ca93424600f92d087"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\example\\raw\\parser.py": {
+    "mtime": 1780175313.3009286,
+    "ast_hash": "7e851d6c9387d9dfe3d950da8134e907",
+    "semantic_hash": "7e851d6c9387d9dfe3d950da8134e907"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\example\\raw\\processor.py": {
+    "mtime": 1780175313.301931,
+    "ast_hash": "039460bdd76c82646b92300559d85c8b",
+    "semantic_hash": "039460bdd76c82646b92300559d85c8b"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\example\\raw\\storage.py": {
+    "mtime": 1780175313.3029306,
+    "ast_hash": "51d7ae51c2822415aa561d6b5c2d21eb",
+    "semantic_hash": "51d7ae51c2822415aa561d6b5c2d21eb"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\example\\raw\\validator.py": {
+    "mtime": 1780175313.303928,
+    "ast_hash": "0a1d1764da88dd249b9234f2fed8a4c8",
+    "semantic_hash": "0a1d1764da88dd249b9234f2fed8a4c8"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\httpx\\graph.json": {
+    "mtime": 1780175313.3079362,
+    "ast_hash": "57028339d42b045597a86010f8512f0e",
+    "semantic_hash": "57028339d42b045597a86010f8512f0e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\httpx\\raw\\auth.py": {
+    "mtime": 1780175313.3109367,
+    "ast_hash": "f5e54f028db29f5ade3137e89f11e2e9",
+    "semantic_hash": "f5e54f028db29f5ade3137e89f11e2e9"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\httpx\\raw\\client.py": {
+    "mtime": 1780175313.3119383,
+    "ast_hash": "cb2d79a9a63444bd67eac05d9180eee6",
+    "semantic_hash": "cb2d79a9a63444bd67eac05d9180eee6"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\httpx\\raw\\exceptions.py": {
+    "mtime": 1780175313.312935,
+    "ast_hash": "5cbe3454de1c02efd39d6ed626891664",
+    "semantic_hash": "5cbe3454de1c02efd39d6ed626891664"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\httpx\\raw\\models.py": {
+    "mtime": 1780175313.3149378,
+    "ast_hash": "8bd8f9e42930dfdd3f11236ea96dd30c",
+    "semantic_hash": "8bd8f9e42930dfdd3f11236ea96dd30c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\httpx\\raw\\transport.py": {
+    "mtime": 1780175313.315935,
+    "ast_hash": "44ad90c1522cf5a4cdcc204a823d4b38",
+    "semantic_hash": "44ad90c1522cf5a4cdcc204a823d4b38"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\httpx\\raw\\utils.py": {
+    "mtime": 1780175313.3179352,
+    "ast_hash": "396942df3d2ce6762c3d65014d0bbe19",
+    "semantic_hash": "396942df3d2ce6762c3d65014d0bbe19"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\karpathy-repos\\graph.json": {
+    "mtime": 1780175313.3259382,
+    "ast_hash": "d6e2e2e97fb336673317351d3cfb1463",
+    "semantic_hash": "d6e2e2e97fb336673317351d3cfb1463"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\mixed-corpus\\graph.json": {
+    "mtime": 1780175313.3329363,
+    "ast_hash": "3472483d969211d3e481a003d71c70a9",
+    "semantic_hash": "3472483d969211d3e481a003d71c70a9"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\mixed-corpus\\raw\\analyze.py": {
+    "mtime": 1780175313.3359346,
+    "ast_hash": "ab646c14d0bd6ade6453e830d366760c",
+    "semantic_hash": "ab646c14d0bd6ade6453e830d366760c"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\mixed-corpus\\raw\\build.py": {
+    "mtime": 1780175313.3389394,
+    "ast_hash": "5473722d759c4cde9072c2612c1c0a9e",
+    "semantic_hash": "5473722d759c4cde9072c2612c1c0a9e"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\mixed-corpus\\raw\\cluster.py": {
+    "mtime": 1780175313.339934,
+    "ast_hash": "cb21fb4b090dc4b6067a9235ee1278cb",
+    "semantic_hash": "cb21fb4b090dc4b6067a9235ee1278cb"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\rsl-siege-manager\\graph.json": {
+    "mtime": 1780175313.3739414,
+    "ast_hash": "7609658567425751e750d0f3007e0a2a",
+    "semantic_hash": "7609658567425751e750d0f3007e0a2a"
+  },
+  "C:\\Users\\Pessoal\\graphify\\worked\\rsl-siege-manager\\manifest.json": {
+    "mtime": 1780175313.375937,
+    "ast_hash": "1713c4ede148cc142e79c786e8d11ec4",
+    "semantic_hash": "1713c4ede148cc142e79c786e8d11ec4"
+  }
+}

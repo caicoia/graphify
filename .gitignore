@@ -13,7 +13,6 @@ build/
 *.so
 *.egg
 .graphify/
-graphify-out/
 .graphify_*.json
 .graphify_python
 .claude/*
